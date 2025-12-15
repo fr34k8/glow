@@ -27,7 +27,7 @@ require (
 	github.com/spf13/cobra v1.10.1
 	github.com/spf13/viper v1.21.0
 	golang.org/x/sys v0.39.0
-	golang.org/x/term v0.37.0
+	golang.org/x/term v0.38.0
 	golang.org/x/text v0.31.0
 )
 
