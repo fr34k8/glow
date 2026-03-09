@@ -13,7 +13,7 @@ require (
 	github.com/charmbracelet/x/editor v0.1.0
 	github.com/dustin/go-humanize v1.0.1
 	github.com/fsnotify/fsnotify v1.9.0
-	github.com/mattn/go-runewidth v0.0.20
+	github.com/mattn/go-runewidth v0.0.21
 	github.com/mitchellh/go-homedir v1.1.0
 	github.com/muesli/gitcha v0.3.0
 	github.com/muesli/go-app-paths v0.2.2
